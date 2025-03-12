@@ -1,0 +1,81 @@
+,image_a,image_b,name_a,name_b,category_a,category_b,matching
+0,stimuli/images/190 .bmp,stimuli/images/219 .bmp,Rolling pin,Stove,kitchen_utensil,kitchen_utensil,True
+1,stimuli/images/106 .bmp,stimuli/images/250 .bmp,Glove,Watch,clothing,clothing,True
+2,stimuli/images/169 .bmp,stimuli/images/191 .bmp,Penguin,Rooster,bird,bird,True
+3,stimuli/images/047 .bmp,stimuli/images/147 .bmp,Car,Motorcycle,vehicle,vehicle,True
+4,stimuli/images/039 .bmp,stimuli/images/240 .bmp,Bus,Train,vehicle,vehicle,True
+5,stimuli/images/046 .bmp,stimuli/images/031 .bmp,Cap,Boot,clothing,clothing,True
+6,stimuli/images/196 .bmp,stimuli/images/114 .bmp,Saw,Hammer,tool,tool,True
+7,stimuli/images/034 .bmp,stimuli/images/097 .bmp,Bowl,Fork,kitchen_utensil,kitchen_utensil,True
+8,stimuli/images/185 .bmp,stimuli/images/215 .bmp,Refrigerator,Spoon,kitchen_utensil,kitchen_utensil,True
+9,stimuli/images/179 .bmp,stimuli/images/037 .bmp,Pot,Broom,kitchen_utensil,kitchen_utensil,True
+10,stimuli/images/203 .bmp,stimuli/images/247 .bmp,Shirt,Vest,clothing,clothing,True
+11,stimuli/images/226 .bmp,stimuli/images/067 .bmp,Table,Couch,furniture,furniture,True
+12,stimuli/images/083 .bmp,stimuli/images/007 .bmp,Ear,Arm,human_body,human_body,True
+13,stimuli/images/101 .bmp,stimuli/images/104 .bmp,Frying pan,Glass,kitchen_utensil,kitchen_utensil,True
+14,stimuli/images/141 .bmp,stimuli/images/119 .bmp,Lips,Heart,human_body,human_body,True
+15,stimuli/images/070 .bmp,stimuli/images/130 .bmp,Cup,Knife,kitchen_utensil,kitchen_utensil,True
+16,stimuli/images/092 .bmp,stimuli/images/243 .bmp,Flute,Trumpet,musical_instrument,musical_instrument,True
+17,stimuli/images/224 .bmp,stimuli/images/064 .bmp,Sweater,Coat,clothing,clothing,True
+18,stimuli/images/232 .bmp,stimuli/images/118 .bmp,Tie,Hat,clothing,clothing,True
+19,stimuli/images/246 .bmp,stimuli/images/188 .bmp,Vase,Rocking chair,furniture,furniture,True
+20,stimuli/images/149 .bmp,stimuli/images/003 .bmp,Mouse,Alligator,four_footed_animal,four_footed_animal,True
+21,stimuli/images/132 .bmp,stimuli/images/184 .bmp,Lamp,Record player,furniture,furniture,True
+22,stimuli/images/054 .bmp,stimuli/images/220 .bmp,Cherry,Strawberry,fruit,fruit,True
+23,stimuli/images/127 .bmp,stimuli/images/234 .bmp,Kettle,Toaster,kitchen_utensil,kitchen_utensil,True
+24,stimuli/images/002 .bmp,stimuli/images/189 .bmp,Airplane,Roller skate,vehicle,vehicle,True
+25,stimuli/images/197 .bmp,stimuli/images/151 .bmp,Scissors,Nail,tool,tool,True
+26,stimuli/images/164 .bmp,stimuli/images/055 .bmp,Peacock,Chicken,bird,bird,True
+27,stimuli/images/155 .bmp,stimuli/images/231 .bmp,Nose,Thumb,human_body,human_body,True
+28,stimuli/images/192 .bmp,stimuli/images/176 .bmp,Ruler,Pliers,tool,tool,True
+29,stimuli/images/162 .bmp,stimuli/images/029 .bmp,Pants,Blouse,clothing,clothing,True
+30,stimuli/images/086 .bmp,stimuli/images/235 .bmp,Eye,Toe,human_body,human_body,True
+31,stimuli/images/111 .bmp,stimuli/images/171 .bmp,Guitar,Piano,musical_instrument,musical_instrument,True
+32,stimuli/images/080 .bmp,stimuli/images/117 .bmp,Drum,Harp,musical_instrument,musical_instrument,True
+33,stimuli/images/186 .bmp,stimuli/images/126 .bmp,Rhinoceros,Kangaroo,four_footed_animal,four_footed_animal,True
+34,stimuli/images/078 .bmp,stimuli/images/204 .bmp,Dress,Shoe,clothing,clothing,True
+35,stimuli/images/248 .bmp,stimuli/images/001 .bmp,Violin,Accordion,musical_instrument,musical_instrument,True
+36,stimuli/images/113 .bmp,stimuli/images/134 .bmp,Hair,Leg,human_body,human_body,True
+37,stimuli/images/173 .bmp,stimuli/images/252 .bmp,Pineapple,Watermelon,fruit,fruit,True
+38,stimuli/images/010 .bmp,stimuli/images/072 .bmp,Ashtray,Desk,furniture,furniture,True
+39,stimuli/images/120 .bmp,stimuli/images/249 .bmp,Helicopter,Wagon,vehicle,vehicle,True
+40,stimuli/images/106 .bmp,stimuli/images/197 .bmp,Glove,Scissors,clothing,tool,False
+41,stimuli/images/243 .bmp,stimuli/images/176 .bmp,Trumpet,Pliers,musical_instrument,tool,False
+42,stimuli/images/125 .bmp,stimuli/images/094 .bmp,Jacket,Foot,clothing,human_body,False
+43,stimuli/images/231 .bmp,stimuli/images/185 .bmp,Thumb,Refrigerator,human_body,kitchen_utensil,False
+44,stimuli/images/053 .bmp,stimuli/images/140 .bmp,Chair,Lion,furniture,four_footed_animal,False
+45,stimuli/images/242 .bmp,stimuli/images/234 .bmp,Truck,Toaster,vehicle,kitchen_utensil,False
+46,stimuli/images/120 .bmp,stimuli/images/101 .bmp,Helicopter,Frying pan,vehicle,kitchen_utensil,False
+47,stimuli/images/064 .bmp,stimuli/images/164 .bmp,Coat,Peacock,clothing,bird,False
+48,stimuli/images/162 .bmp,stimuli/images/160 .bmp,Pants,Owl,clothing,bird,False
+49,stimuli/images/016 .bmp,stimuli/images/114 .bmp,Banana,Hammer,fruit,tool,False
+50,stimuli/images/002 .bmp,stimuli/images/010 .bmp,Airplane,Ashtray,vehicle,furniture,False
+51,stimuli/images/006 .bmp,stimuli/images/191 .bmp,Apple,Rooster,fruit,bird,False
+52,stimuli/images/188 .bmp,stimuli/images/127 .bmp,Rocking chair,Kettle,furniture,kitchen_utensil,False
+53,stimuli/images/159 .bmp,stimuli/images/080 .bmp,Ostrich,Drum,bird,musical_instrument,False
+54,stimuli/images/218 .bmp,stimuli/images/196 .bmp,Stool,Saw,furniture,tool,False
+55,stimuli/images/205 .bmp,stimuli/images/088 .bmp,Skirt,Finger,clothing,human_body,False
+56,stimuli/images/215 .bmp,stimuli/images/099 .bmp,Spoon,French horn,kitchen_utensil,musical_instrument,False
+57,stimuli/images/135 .bmp,stimuli/images/055 .bmp,Lemon,Chicken,fruit,bird,False
+58,stimuli/images/226 .bmp,stimuli/images/086 .bmp,Table,Eye,kitchen_utensil,human_body,False
+59,stimuli/images/158 .bmp,stimuli/images/172 .bmp,Orange,Pig,fruit,four_footed_animal,False
+60,stimuli/images/037 .bmp,stimuli/images/216 .bmp,Broom,Squirrel,kitchen_utensil,four_footed_animal,False
+61,stimuli/images/060 .bmp,stimuli/images/115 .bmp,Clock,Hand,furniture,human_body,False
+62,stimuli/images/252 .bmp,stimuli/images/119 .bmp,Watermelon,Heart,fruit,human_body,False
+63,stimuli/images/078 .bmp,stimuli/images/081 .bmp,Dress,Duck,clothing,bird,False
+64,stimuli/images/134 .bmp,stimuli/images/056 .bmp,Leg,Chisel,human_body,tool,False
+65,stimuli/images/228 .bmp,stimuli/images/220 .bmp,Television,Strawberry,furniture,fruit,False
+66,stimuli/images/027 .bmp,stimuli/images/235 .bmp,Bicycle,Toe,vehicle,human_body,False
+67,stimuli/images/007 .bmp,stimuli/images/198 .bmp,Arm,Screw,human_body,tool,False
+68,stimuli/images/075 .bmp,stimuli/images/070 .bmp,Donkey,Cup,four_footed_animal,kitchen_utensil,False
+69,stimuli/images/250 .bmp,stimuli/images/147 .bmp,Watch,Motorcycle,clothing,vehicle,False
+70,stimuli/images/049 .bmp,stimuli/images/179 .bmp,Cat,Pot,four_footed_animal,kitchen_utensil,False
+71,stimuli/images/012 .bmp,stimuli/images/022 .bmp,Axe,Bed,tool,furniture,False
+72,stimuli/images/031 .bmp,stimuli/images/155 .bmp,Boot,Nose,clothing,human_body,False
+73,stimuli/images/047 .bmp,stimuli/images/118 .bmp,Car,Hat,vehicle,clothing,False
+74,stimuli/images/192 .bmp,stimuli/images/169 .bmp,Ruler,Penguin,tool,bird,False
+75,stimuli/images/224 .bmp,stimuli/images/166 .bmp,Sweater,Pear,clothing,fruit,False
+76,stimuli/images/246 .bmp,stimuli/images/054 .bmp,Vase,Cherry,furniture,fruit,False
+77,stimuli/images/145 .bmp,stimuli/images/130 .bmp,Monkey,Knife,four_footed_animal,kitchen_utensil,False
+78,stimuli/images/190 .bmp,stimuli/images/072 .bmp,Rolling pin,Desk,kitchen_utensil,furniture,False
+79,stimuli/images/067 .bmp,stimuli/images/131 .bmp,Couch,Ladder,furniture,tool,False
