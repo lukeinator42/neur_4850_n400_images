@@ -1,3 +1,11 @@
 ,image_a,image_b,name_a,name_b,category_a,category_b,matching
-0,stimuli/images/060 .bmp,stimuli/images/079 .bmp,Clock,Dresser,furniture,furniture,TRUE
-1,stimuli/images/083 .bmp,stimuli/images/207 .bmp,Ear,Sled,human_body,vehicle,FALSE
+0,stimuli/images/060 .bmp,stimuli/images/079 .bmp,Clock,Dresser,furniture,furniture,True
+1,stimuli/images/242 .bmp,stimuli/images/207 .bmp,Truck,Sled,vehicle,vehicle,True
+2,stimuli/images/022 .bmp,stimuli/images/228 .bmp,Bed,Television,furniture,furniture,True
+3,stimuli/images/025 .bmp,stimuli/images/099 .bmp,Bell,French horn,musical_instrument,musical_instrument,True
+4,stimuli/images/115 .bmp,stimuli/images/088 .bmp,Hand,Finger,human_body,human_body,True
+5,stimuli/images/083 .bmp,stimuli/images/207 .bmp,Ear,Sled,human_body,vehicle,False
+6,stimuli/images/171 .bmp,stimuli/images/082 .bmp,Piano,Eagle,musical_instrument,bird,False
+7,stimuli/images/043 .bmp,stimuli/images/189 .bmp,Camel,Roller skate,four_footed_animal,vehicle,False
+8,stimuli/images/173 .bmp,stimuli/images/240 .bmp,Pineapple,Train,fruit,vehicle,False
+9,stimuli/images/249 .bmp,stimuli/images/163 .bmp,Wagon,Peach,vehicle,fruit,False
